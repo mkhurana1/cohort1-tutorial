@@ -1,1 +1,2 @@
 this is my first project
+ready to go to commit 2
